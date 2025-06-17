@@ -2,8 +2,8 @@
 name: "Wild in Words"
 title: "Wild in Words"
 description: "Exploring the fun facts and stories of wildlife :)"
-logo: 'assets/images/wiwlogo.jpg'
-favicon: 'assets/images/wiwlogo.jpg'
+#logo: 'assets/images/wiwlogo.jpg'
+#favicon: 'assets/images/wiwlogo.jpg'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
