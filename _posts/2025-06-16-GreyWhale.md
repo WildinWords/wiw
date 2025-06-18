@@ -5,6 +5,7 @@ categories: [Animal]
 tags: [animal, whale]
 image: assets/images/grey_whale.jpg
 description: "Fun story about grey whale."
+featured: true
 comments: false
 ---
 *(Photo by [NOAA Fisheries West Coast](https://www.flickr.com/photos/nmfs_northwest/17628350103) on Flickr)*

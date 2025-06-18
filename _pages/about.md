@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About | {{site.name}}
 permalink: /about
 comments: false
 ---
@@ -24,4 +24,4 @@ comments: false
 
 </div>
 </div>
-</div>
+</div
