@@ -232,9 +232,9 @@ span.post-read {
 }
 
 span.post-read-more {
+    display: flex;
     align-items: center;
-    display: inline-block;
-    float: right;
+    justify-content: flex-end;
     margin-top: 8px;
 }
 
