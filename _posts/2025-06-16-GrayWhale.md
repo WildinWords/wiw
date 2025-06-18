@@ -4,7 +4,7 @@ title:  'Gray Whales (<em>Eschrichtius robustus</em>)'
 categories: [Animal]
 tags: [mammal, ocean, NatureinTransit]
 image: assets/images/grey_whale.jpg
-description: '<b>The “Ocean Travelers” of the North Pacific</b>'
+description: 'The “Ocean Travelers” of the North Pacific'
 featured: true
 comments: false
 ---
