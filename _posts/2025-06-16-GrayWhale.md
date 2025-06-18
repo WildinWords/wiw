@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Gray Whales (*Eschrichtius robustus)'
+title:  'Gray Whales (<em>Eschrichtius robustus</em>)'
 categories: [Animal]
 tags: [mammal, ocean, NatureinTransit]
 image: assets/images/grey_whale.jpg
