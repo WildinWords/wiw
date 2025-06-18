@@ -223,7 +223,7 @@ section.recent-posts {
 span.post-name,
 span.post-date,
 span.author-meta {
-    display: inline-block;
+    display: flex;
 }
 
 span.post-date,
@@ -235,7 +235,6 @@ span.post-read-more {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    margin-top: 8px;
 }
 
 span.post-read-more a {
