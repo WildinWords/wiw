@@ -4,7 +4,8 @@ title: "Wild in Words"
 description: "Exploring the fun facts and stories of wildlife :)"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://wildinwords.github.io/gallery
+url: https://wildinwords.github.io/gallery # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
