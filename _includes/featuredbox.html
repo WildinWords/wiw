@@ -35,7 +35,7 @@
                                 {% if paragraphs.size > 1 %}
                                 {{ paragraphs[1] | append: "</p>" | strip_html | truncatewords:30 }}
                                 {% else %}
-                                {{ post.excerpt | strip_html | truncatewords:30 }}
+                                {{ post.excerpt | strip_html | truncatewords:15 }}
                                 {% endif %}
                             </h4>
                         </div>
