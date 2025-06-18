@@ -33,7 +33,7 @@
                             <h4 class="card-text">
                                 {% assign paragraphs = post.content | split: "</p>" %}
                                 {% if paragraphs.size > 1 %}
-                                {{ paragraphs[1] | append: "</p>" | strip_html | truncatewords:30 }}
+                                {{ paragraphs[1] | append: "</p>" | strip_html | truncatewords:15 }}
                                 {% else %}
                                 {{ post.excerpt | strip_html | truncatewords:15 }}
                                 {% endif %}
