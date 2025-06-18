@@ -10,7 +10,6 @@ comments: false
 ---
 *(Photo by [NOAA Fisheries West Coast](https://www.flickr.com/photos/nmfs_northwest/17628350103) on Flickr)*
 
-
 Off the coast of Tofino, Vancouver, a spectacular natural show unfolds every year—the migration of gray whales. These massive creatures glide slowly along the shoreline, as if whispering their ancient and mysterious tales to humanity.
 
 # *The “Marathon Champions” of Migration*

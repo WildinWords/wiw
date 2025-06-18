@@ -26,7 +26,14 @@
                 {% endif %}
             </h2>
             <h4 class="card-text">{{ post.description | strip_html | truncatewords:30 }}</h4>
-            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+            <h4 class="card-text">
+                {% assign paragraphs = post.content | split: "</p>" %}
+                {% if paragraphs.size > 1 %}
+                {{ paragraphs[1] | append: "</p>" | strip_html | truncatewords:30 }}
+                {% else %}
+                {{ post.excerpt | strip_html | truncatewords:30 }}
+                {% endif %}
+            </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
