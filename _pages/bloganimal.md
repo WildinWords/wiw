@@ -1,7 +1,5 @@
 ---
 layout: blogwithcategory
 title: Animal
-permalink: /blog/animal/
+permalink: /blog/animal
 ---
-
-
