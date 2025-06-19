@@ -2,11 +2,16 @@
 layout: default
 ---
 
-<h2>Category: {{ page.category }}</h2>
+<section class="recent-posts">
+  <div class="section-title">
+    <h2><span>{{ page.category | capitalize }} Stories</span></h2>
+  </div>
 
-<div class="postlist">
-  {% assign category_name = page.category %}
-  {% for post in site.categories[category_name] %}
-    {% include postlist.html %}
-  {% endfor %}
-</div>
+  <div class="postlist">
+    {% assign posts_in_category = site.categories[page.category] %}
+    {% for post in posts_in_category %}
+      {% include postlist.html %}
+    {% endfor %}
+  </div>
+</section>
+
