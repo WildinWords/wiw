@@ -898,3 +898,23 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.postlist-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.postlist-image img {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+}
+
+.postlist-content h3 {
+  margin-top: 0;
+}
+
+.postlist-content p {
+  font-weight: bold;
+}

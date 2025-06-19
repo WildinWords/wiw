@@ -1,0 +1,29 @@
+<!-- begin post -->
+{% assign author = site.authors[post.author] %}
+
+<div class="postlist">
+  {% for post in site.posts %}
+  <div class="postlist-item" style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+    
+    {% if post.image %}
+    <div class="postlist-image" style="flex: 0 0 150px; margin-right: 20px;">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" 
+             alt="{{ post.title }}" 
+             style="width: 150px; height: auto; object-fit: cover;">
+      </a>
+    </div>
+    {% endif %}
+
+    <div class="postlist-content" style="flex: 1;">
+      <h3 style="margin-top: 0;">
+        <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; color: #333;">
+          {{ post.title }}
+        </a>
+      </h3>
+      <p><strong>{{ post.description | strip_html | truncatewords: 30 }}</strong></p>
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
