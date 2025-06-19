@@ -3,7 +3,7 @@ layout: post
 title:  'Gray Whales (<em>Eschrichtius robustus</em>)'
 author: qingyang
 categories: [Mammal, Ocean]
-tags: [GrayWhale, NatureinTransit]
+tags: [YLICP, NatureinTransit, GrayWhale, MarineConservation, WildBC]
 image: assets/images/grey_whale.jpg
 description: 'The “Ocean Travelers” of the North Pacific'
 featured: true
@@ -43,8 +43,8 @@ Next time you're by the sea and spot a spray in the distance, wave to these incr
 
 ### Learn More
 
-- IUCN Red List: `<a href="https://www.iucnredlist.org/species/8097/50353881" target="_blank" rel="noopener noreferrer">`https://www.iucnredlist.org/species/8097/50353881 `</a>`
-- Whales Tail Charters: `<a href='https://whalestaildepoebay.com/gray-whales/' target="_blank" rel='noonpener noreferer'>`https://whalestaildepoebay.com/gray-whales/`</a>`
-- NOAA Species Directory: `<a href='https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.' target="_blank" rel="noopener noreferrer">`https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.`</a>`
-- Northwest Wildlife Preservation Society: `<a href='https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf' target='_blank' rel="noopener noreferrer">`https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf `</a>`
-- Daily Mail. (2010, May 12). The Loneliest whale in the world. `<a href='https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html' target='_blank' rel="noopener noreferrer">`https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html `</a>`
+- IUCN Red List: <a href="https://www.iucnredlist.org/species/8097/50353881" target="_blank" rel="noopener noreferrer">https://www.iucnredlist.org/species/8097/50353881 </a>
+- Whales Tail Charters: <a href='https://whalestaildepoebay.com/gray-whales/' target="_blank" rel='noonpener noreferer'>https://whalestaildepoebay.com/gray-whales/</a>
+- NOAA Species Directory: <a href='https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.' target="_blank" rel="noopener noreferrer">https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.</a>
+- Northwest Wildlife Preservation Society: <a href='https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf' target='_blank' rel="noopener noreferrer">https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf </a>
+- Daily Mail. (2010, May 12). The Loneliest whale in the world. <a href='https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html' target='_blank' rel="noopener noreferrer">https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html </a>
