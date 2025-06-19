@@ -18,8 +18,10 @@
                 {{ post.title }}
             </a>
             </h4>
-            <p><b>{{ post.description | strip_html | truncatewords: 30 }}</b></p>
-            <p>
+            <p style="font-weight: 300; color: #333;">
+                <b>{{ post.description | strip_html | truncatewords: 30 }}</b>
+            </p>
+            <p style="font-weight: 300; color: #888;">
             {% assign paragraphs = post.content | split: "</p>" %}
             {% if paragraphs.size > 1 %}
             {{ paragraphs[1] | append: "</p>" | strip_html | truncatewords:15 }}
