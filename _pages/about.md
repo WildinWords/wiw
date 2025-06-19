@@ -4,24 +4,14 @@ title: About
 permalink: /about
 comments: false
 ---
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+### About Wild in Words
 
-<p>Welcome to WildinWords!</p>
+Wild in Words is a digital blog series aimed to transforms curiosity into connection through fun facts, heartfelt stories, and surprising science about plants and animals both local and global. By spotlighting species in both marine and terrestrial ecosystems, Wild in Words encourages readers to care more deeply and act more boldly in support of conservation. It also connects audiences with further resources, including conservation groups, Indigenous knowledge, and citizen science initiatives.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+### Our Mission
 
-</div>
+To spark wonder for the natural world by:
 
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> 
-
-</div>
-</div>
-</div>
+- **Humanizing Conservation:** Sharing relatable tales of species.
+- **Bridging Urban & Wild:** Linking Vancouver's common species to deep-dive stories, spot a species on your commute, then explore its life here!
+- **Inspiring Action:** Turning "I never knew!" into "How can I help?"
