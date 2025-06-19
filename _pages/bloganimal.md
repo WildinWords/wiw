@@ -1,5 +1,7 @@
 ---
 layout: blogwithcategory
-title: {{ page.category }}
-permalink: /blog/{{ page.category }}
+title: Animal
+permalink: /blog/animal/
 ---
+
+
