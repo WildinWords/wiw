@@ -29,7 +29,7 @@ Gray whales feed by swimming on their sides along the ocean floor, sucking up se
 
 When gray whales surface to breathe, they shoot noisy stream of air (known as "spout") to 4 metres into the air. Each whale's spray is shaped a little differently—almost like a fingerprint. Scientists can even tell them apart by their unique [&#34;heart-shaped&#34; spouts](https://whalestaildepoebay.com/gray-whales/).
 
-### 🪸Moving Coral Reefs
+### 🐋Moving Coral Reefs
 
 Gray whales often carry barnacles and whale lice on their skin—tiny hitchhikers living rent-free. It makes their skin look like a coral reefs! These creatures can act like armor and even help in whale battles. Sometimes, whales rub against rocks to scrape off their "passengers."
 
