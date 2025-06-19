@@ -8,9 +8,11 @@ layout: default
   </div>
 
   <div class="postlist">
-    {% assign posts_in_category = site.categories[page.category] %}
-    {% for post in posts_in_category %}
-      {% include postlist.html %}
+    {% assign cat = page.category | downcase %}
+    {% for post in site.posts %}
+      {% if post.categories contains cat %}
+        {% include postlist.html %}
+      {% endif %}
     {% endfor %}
   </div>
 </section>
