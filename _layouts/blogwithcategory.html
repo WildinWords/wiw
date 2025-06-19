@@ -11,13 +11,15 @@ layout: default
     <p>Total posts: {{ site.posts | size }}</p>
     <ul>
         {% for post in site.posts %}
-        <li>{{ post.title }} — categories: {{ post.categories | join: ", " }}</li>
+            {% if post.categories contains cat %}   
+            <li>{{ post.title }} — categories: {{ post.categories | join: ", " }}</li>
+            {% endif%}
         {% endfor %}
     </ul>
 
 
   <div class="postlist">
-    {% assign cat = page.category | downcase %}
+    {% assign cat = page.category %}
     {% for post in site.posts %}
       {% if post.categories contains cat %}
         {% include postlist.html %}
