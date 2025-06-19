@@ -28,29 +28,25 @@ post_class: post-template
                 <div class="row post-top-meta">
                     <div>
                         <p>
-                            by {{ author.display_name }} | <time class="post-date" datetime='{{ page.date | date:"%Y-%m-%d" }}'>{{ page.date | date_to_string }}</time>
+                            by {{ author.display_name }} | <time class="post-date" datetime='{{ page.date | date:"%Y-%m-%d" }}'>{{ page.date | date_to_string }}</span>
                         </p>
                     </div>
                 </div>
                 {% endif %}
 
-                <!-- Post Categories and Tags -->
-                <div>
-                    <ul class="tags">
+                <!-- Post Categories -->
+                <div class="after-post-cats">
+                    <ul class="tags mb-4">
                         {% assign sortedCategories = page.categories | sort %}
-                        {% assign sortedTags = page.tags | sort %}
-                        {% assign allLabels = sortedCategories | concat: sortedTags %}
-                        {% for label in allLabels %}
-                            {% if forloop.first == false %}| {% endif %}
-                            {% if sortedCategories contains label %}
-                                <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ label | replace: " ","-" }}'>{{ label }}</a>
-                            {% else %}
-                                <a class="smoothscroll">#{{ label }}</a>
-                            {% endif %}
+                        {% for category in sortedCategories %}
+                        <li>
+                            <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ category | replace: " ","-" | downcase }}'>{{ category }}</a>
+                        </li>
                         {% endfor %}
                     </ul>
                 </div>
-                <!-- End Categories and Tags -->
+                <!-- End Categories -->
+
             </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
@@ -101,6 +97,19 @@ post_class: post-template
 
         </div>
         <!-- End Post -->
+
+        <!-- Post Tags -->
+        <div class="after-post-tags">
+            <ul class="tags">
+                {% assign sortedTags = page.tags | sort %}
+                {% for tag in sortedTags %}
+                <li>
+                    <a class="smoothscroll">#{{ tag }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- End Tags -->
 
     </div>
 </div>
