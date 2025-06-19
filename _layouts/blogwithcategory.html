@@ -7,21 +7,6 @@ layout: default
     <h2><span>{{ page.category | capitalize }} Stories</span></h2>
   </div>
 
-    <p>Looking for posts in category: <code>{{ page.category }}</code></p>
-    <p>Total posts: {{ site.posts | size }}</p>
-    <ul>
-        {% for post in site.posts %}
-            {% if post.categories contains cat %}   
-            <h4 style="margin-top: 0;">
-            <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; color: #333;">
-                {{ post.title }} — categories: {{ post.categories | join: ", " }}
-            </a>
-            </h4>
-            {% endif%}
-        {% endfor %}
-    </ul>
-
-
   <div class="postlist">
     {% assign cat = page.category %}
     {% for post in site.posts %}
