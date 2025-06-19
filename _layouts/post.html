@@ -28,38 +28,29 @@ post_class: post-template
                 <div class="row post-top-meta">
                     <div>
                         <p>
-                            by {{ author.display_name }} | <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+                            by {{ author.display_name }} | <time class="post-date" datetime='{{ page.date | date:"%Y-%m-%d" }}'>{{ page.date | date_to_string }}</time>
                         </p>
                     </div>
                 </div>
                 {% endif %}
 
-                <!-- Post Categories -->
-                <div class="after-post-cats">
-                    <ul class="tags mb-4">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li>
-                            <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ category | replace: " ","-" }}'>{{ category }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <!-- End Categories -->
-
-                <!-- Post Tags -->
-                <div class="after-post-tags">
+                <!-- Post Categories and Tags -->
+                <div>
                     <ul class="tags">
+                        {% assign sortedCategories = page.categories | sort %}
                         {% assign sortedTags = page.tags | sort %}
-                        {% for tag in sortedTags %}
-                        <li>
-                            <a class="smoothscroll">#{{ tag }}</a>
-                        </li>
+                        {% assign allLabels = sortedCategories | concat: sortedTags %}
+                        {% for label in allLabels %}
+                            {% if forloop.first == false %}| {% endif %}
+                            {% if sortedCategories contains label %}
+                                <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ label | replace: " ","-" }}'>{{ label }}</a>
+                            {% else %}
+                                <a class="smoothscroll">#{{ label }}</a>
+                            {% endif %}
                         {% endfor %}
                     </ul>
                 </div>
-                <!-- End Tags -->
-
+                <!-- End Categories and Tags -->
             </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
