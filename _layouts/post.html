@@ -26,18 +26,11 @@ post_class: post-template
 
                 <!-- Author Box -->
                 {% if page.author %}
-                <div class="row post-top-meta">
-                    <div>
-                        {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                        {% endif %}
-                    </div>
-                    <div>
-                        <p>
-                            by {{ author.display_name }} | <span class="post-date">{{ post.date | date_to_string }}</span>
-                        </p>
-                        <span class="author-description">{{ author.description }}</span>
-                    </div>
+                <div>
+                    <p>
+                        by {{ author.display_name }} | <span class="post-date">{{ post.date | date_to_string }}</span>
+                    </p>
+                    <span class="author-description">{{ author.description }}</span>
                 </div>
                 {% endif %}
 

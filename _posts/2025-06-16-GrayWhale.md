@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Gray Whales (<em>Eschrichtius robustus</em>)'
-author: Qingyang Li
+author: qingyang
 categories: [Animal]
 tags: [mammal, ocean, NatureinTransit]
 image: assets/images/grey_whale.jpg
