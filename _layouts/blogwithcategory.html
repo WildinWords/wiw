@@ -1,0 +1,14 @@
+---
+title: {{ page.category }}
+layout: default
+permalink: "/blogwithcategory.html"
+---
+
+<h2>Category: {{ page.category }}</h2>
+
+<div class="postlist">
+  {% assign category_name = page.category %}
+  {% for post in site.categories[category_name] %}
+    {% include postlist.html %}
+  {% endfor %}
+</div>
