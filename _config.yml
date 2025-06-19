@@ -15,8 +15,9 @@ permalink: /:title/
 # Authors
 authors:
   qingyang:
-    name: Qingyang
-    display_name: Qingyang
+    name: Qingyang Li
+    display_name: Qingyang Li
+    avatar:
     gravatar: 
     email: 
     web: 
