@@ -11,37 +11,40 @@ comments: false
 ---
 *(Photo by [NOAA Fisheries West Coast](https://www.flickr.com/photos/nmfs_northwest/17628350103) on Flickr)*
 
-> Off the coast of Tofino, Vancouver, a spectacular natural show unfolds every year—the migration of gray whales. These massive creatures glide slowly along the shoreline, as if whispering their ancient and mysterious tales to humanity.
+Off the coast of Tofino and Vancouver, a spectacular natural show unfolds every year—the migration of gray whales. These massive creatures glide slowly along the shoreline, as if whispering their ancient and mysterious tales with us.
 
-# *The "Marathon Champions" of Migration*
+# 🌎 The "Marathon Champions" of Migration
 
-Gray whales are the champions of animal migration! Every year, they travel along the western coast of North America, making a round trip between the freezing feeding grounds of Alaska and the warm breeding areas of Baja California in Mexico. The entire journey is over 16,000 kilometers long, almost half the circumference of the Earth! Off the coast of Vancouver, during spring and autumn, lucky whale watchers often spot their huge figures, spouting tall sprays of water as if saying hello to people.
+Gray whales make one of the longest migrations of any mammal on Earth! Every year, they travel over 16,000 km round-trip from freezing Alaska to warm Baja California in Mexico. That's nearly halfway around the world! In spring and fall, you might spot them from the shores of Vancouver, spouting tall sprays of mist to say hello.
 
-# *The Playful "Oceanic Spirits"*
+# 🌊The Playful Ocean Spirits
 
-Gray whales aren't just huge, clumsy beasts. They can be playful and cute. During their migration, it's common to see them leap out of the water and splash back down, an action known as "breaching". Sometimes, they play near boats, showing their smooth backs and interacting with humans, as if inviting us to join their oceanic party.
+Despite their size, gray whales are surprisingly playful and love to show off! During their migration, it's common to see them leap from the water and splash down (called "breaching") or sometimes come close to boats. It feels like they’re inviting us to join their ocean party.
 
-# *The "Big Foodie" of the Sea*
+# 🦐The "Seafloor Vacuum Cleaner"
 
-Despite their massive size, gray whales have a super interesting feeding method! They swim on their sides close to the ocean floor, using their baleen to filter small creatures from the sediment, just like a giant "seafloor vacuum cleaner." When feeding, a cloud of "sediment" rises from the ocean floor, creating a spectacular scene. This unique feeding behavior not only fills their bellies but also stirs up nutrients on the ocean floor, nourishing the entire marine ecosystem.
+Gray whales feed by swimming on their sides along the ocean floor, sucking up sediment and filtering out tiny creatures with their baleen. It's like watching a giant vacuum cleaner at work! When feeding, a cloud of "sediment" rises from the ocean floor, creating a spectacular scene. This messy eating style actually fertilizes the seafloor, nourishing the entire marine ecosystems.
 
-# *The Ocean's "Jet Sprayers"*
+# 💨The Ocean's Jet Sprayers
 
-When gray whales surface to breathe (known as "spout"), they shoot water 4 metres into the air, just like oceanic jet sprayers. But it's not for show. Before each dive, they replace 90% of the air in their lungs. If you watch closely, each whale's spray pattern is unique—like their own ID card. Scientists use these "heart-shaped" spout to recognize gray whales.
+When gray whales surface to breathe, they shoot noisy stream of air (known as "spout") to 4 metres into the air. Each whale's spray is shaped a little differently—almost like a fingerprint. Scientists can even tell them apart by their unique [&#34;heart-shaped&#34; spouts](https://whalestaildepoebay.com/gray-whales/).
 
-# *The Skin "Garden"*
+# 🪸Moving Coral Reefs
 
-Take a closer look at a gray whale, and you'll find its skin is like a "moving garden". It's densely covered with barnacles, whale lice, and other tiny creatures make homes on its skin. These little creatures treat the whale as a "free cruise ship" and travel around with it. For gray whales, although these attachments are a bit "burdensome", they are like a suit of "armor". They can even be used as weapons during fights! Sometimes, they even rub against rocks to shake off the excess "tenants."
+Gray whales often carry barnacles and whale lice on their skin—tiny hitchhikers living rent-free. It makes their skin look like a coral reefs! These creatures can act like armor and even help in whale battles. Sometimes, whales rub against rocks to scrape off their "passengers."
 
-# Once Threatened "Devil Fish"
+# ⚠From "Devil Fish" to Conservation Icons
 
-Once, gray whale populations plummeted due to overhunting, and its aggressive reactions when harpooned gave them the nickname of "devil fish." Today, while conservation efforts have helped their numbers recover somewhat, new threats like ocean pollution and climate change still threaten their survival. The next time when you meet those "Ocean Travelers" at the coast of Vancouver, don't forget to wave at them while protect their blue home!
+In the past, gray whales were overhunted that their populations dropped dangerously low. They were nicknamed "devil fish" for fighting back when harpooned. Thanks to conservation efforts, their populations have somewhat recovered today, although threats like ocean noise, pollution, and climate change still remain.
+
+Next time you're by the sea and spot a spray in the distance, wave to these incredible ocean travelers—and let's help protect the ocean they call home.
 
 ---
 
 # Learn More
 
-- IUCN Red List: `<a href="https://www.iucnredlist.org/species/8097/50353881" target="_blank" rel="noopener noreferrer">`https://www.iucnredlist.org/species/8097/50353881`</a>`
-- NOAA Species Directory: `<a href='https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.' target="_blank" rel="noopener noreferrer">`https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.`</a>`
-- Northwest Wildlife Preservation Society: `<a href='https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf' target='_blank' rel="noopener noreferrer">`https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf`</a>`
-- Daily Mail. (2010, May 12). The Loneliest whale in the world. `<a href='https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html' target='_blank' rel="noopener noreferrer">`https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html`</a>`
+- IUCN Red List: <a href="https://www.iucnredlist.org/species/8097/50353881" target="_blank" rel="noopener noreferrer">https://www.iucnredlist.org/species/8097/50353881 </a>
+- Whales Tail Charters. Gray Whales.<a href='https://whalestaildepoebay.com/gray-whales/' target="_blank" rel='noonpener noreferer'>https://whalestaildepoebay.com/gray-whales/</a> 
+- NOAA Species Directory: <a href='https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.' target="_blank" rel="noopener noreferrer">https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.</a>
+- Northwest Wildlife Preservation Society: <a href='https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf' target='_blank' rel="noopener noreferrer">https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf </a>
+- Daily Mail. (2010, May 12). The Loneliest whale in the world. <a href='https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html' target='_blank' rel="noopener noreferrer">https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html </a>

@@ -20,21 +20,19 @@ post_class: post-template
 
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
+                <!-- Post Title -->
+                <h1 class="posttitle">{{ page.title }}</h1>
 
                 <!-- Author Box -->
                 {% if page.author %}
                 <div class="row post-top-meta">
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
                         <p>
-                            by {{ author.display_name }} |
-                            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+                            by {{ author.display_name }} | <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
                         </p>
                     </div>
                 </div>
                 {% endif %}
-
-                <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
 
             </div>
 
@@ -71,23 +69,6 @@ post_class: post-template
                 <!-- End Toc -->
                 {{content}}
             </div>
-
-            <!-- Rating -->
-            {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-            </div>
-            {% endif %}
-
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
 
             <!-- Post Categories -->
             <div class="after-post-cats">
