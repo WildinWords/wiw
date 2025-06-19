@@ -990,3 +990,18 @@ iframe {
 .category-list a:hover {
   text-decoration: underline;
 }
+
+.back-button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #eee;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  transition: background-color 0.2s;
+}
+
+.back-button:hover {
+  background-color: #ddd;
+}
