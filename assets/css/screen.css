@@ -948,3 +948,45 @@ iframe {
   color: #555;
   margin: 0;
 }
+
+.container-with-sidebar {
+  display: flex;
+  align-items: flex-start;
+}
+
+.category-sidebar {
+  position: sticky;
+  top: 100px; /* adjust based on your header height */
+  width: 200px;
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  height: fit-content;
+}
+
+.category-sidebar h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.category-list li {
+  margin-bottom: 10px;
+}
+
+.category-list a {
+  color: #333;
+  text-decoration: none;
+}
+
+.category-list a:hover {
+  text-decoration: underline;
+}

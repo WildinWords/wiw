@@ -4,15 +4,30 @@ layout: default
 permalink: "/blog.html"
 ---
 
+<div class="container-with-sidebar" style="display: flex; gap: 40px;">
+  <!-- Sticky Sidebar -->
+  <aside class="category-sidebar">
+    <h3>Categories</h3>
+    <ul class="category-list">
+      {% for category in site.categories %}
+        <li>
+          <a href="{{ site.baseurl }}/categories/{{ category[0] | slugify }}/">
+            {{ category[0] }} ({{ category[1].size }})
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
 
-<section class="recent-posts">
-  <header class="section-title">
-    <h2><span>All Stories</span></h2>
-  </header>
-
-  <div class="postlist">
-    {% for post in site.posts %}
-      {% include postlist.html %}
-    {% endfor %}
-  </div>
-</section>
+  <!-- Post List Section -->
+  <section class="recent-posts" style="flex: 1;">
+    <header class="section-title">
+      <h2><span>All Stories</span></h2>
+    </header>
+    <div class="postlist">
+      {% for post in site.posts %}
+        {% include postlist.html %}
+      {% endfor %}
+    </div>
+  </section>
+</div>
