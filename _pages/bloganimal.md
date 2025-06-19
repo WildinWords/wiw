@@ -1,6 +1,6 @@
 ---
 layout: blogwithcategory
 title: Animal
-category: animal
+category: Animal
 permalink: /blog/animal/
 ---
