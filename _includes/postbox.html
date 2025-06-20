@@ -40,6 +40,16 @@
                 {% endif %}
             </h4>
         </div>
+        <div class="after-post-cats">
+            <ul class="tags mb-2">
+                {% assign sortedCategories = page.categories | sort %}
+                {% for category in sortedCategories %}
+                <li>
+                    <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ category | replace: " ","-" | downcase }}'>{{ category }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <div class="post-date">
