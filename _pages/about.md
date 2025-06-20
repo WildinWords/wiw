@@ -13,7 +13,9 @@ Wild in Words is a digital blog series aims to bridge public art and environment
 To spark wonder for the natural world by:
 
 ✅ **Bridging Urban Life & Wildlife:** Bringing species to life through fun, accessible, and factual short stories
+
 ✅ **Lasting Educational Materials:** Creating narratives for educators and nature lovers
+
 ✅ **Inspiring Action:** Turning "I never knew!" into "How can I help?"
 
 Partnering with the Nature in Transit project of Young Leaders in Conservation Program (YLICP) at Burrard SkyTrain Station.
