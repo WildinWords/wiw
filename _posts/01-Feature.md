@@ -2,7 +2,7 @@
 layout: post
 title:  'Nature in Transit SkyTrain ad'
 description: '☀ From June 30 to July 26, 2025'
-featured: false
+featured: true
 comments: false
 ---
 We're partnering with Nature in Transit project at Burrard SkyTrain Station to deepen your connection to local biodiversity. 
