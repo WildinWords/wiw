@@ -30,14 +30,7 @@
                             </h2>
 
                             <h4 class="card-text"><b>{{ post.description | strip_html }}</b></h4>
-                            <h4 class="card-text">
-                                {% assign paragraphs = post.content | split: "</p>" %}
-                                {% if paragraphs.size > 1 %}
-                                {{ paragraphs[1] | append: "</p>" | strip_html  }}
-                                {% else %}
-                                {{ post.excerpt | strip_html }}
-                                {% endif %}
-                            </h4>
+                            <h4 class="card-text">{{ post.content | strip_html }}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
