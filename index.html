@@ -15,8 +15,8 @@ title: Home
 
   <div style="position: relative;">
     <!-- Scroll Buttons -->
-    <button onclick="scrollFeatured(-300)" class="scroll-btn left">&#9664;</button>
-    <button onclick="scrollFeatured(300)" class="scroll-btn right">&#9654;</button>  
+    <button onclick="scrollFeatured(-1)" class="scroll-btn left">&#9664;</button>
+    <button onclick="scrollFeatured(1)" class="scroll-btn right">&#9654;</button>
 
     <!-- Scrollable container -->
     <div id="featured-scroll" style="display: flex;overflow-x: auto;scroll-behavior: smooth; padding: 10px 0;">
@@ -30,10 +30,16 @@ title: Home
 </section>
 
 <script>
-function scrollFeatured(distance) {
-  document.getElementById('featured-scroll').scrollBy({ left: distance, behavior: 'smooth' });
+function scrollFeatured(direction) {
+  const container = document.getElementById('featured-scroll');
+  const card = container.querySelector('.featured-card');
+  if (card) {
+    const cardWidth = card.offsetWidth + parseInt(getComputedStyle(card).marginRight);
+    container.scrollBy({ left: direction * cardWidth, behavior: 'smooth' });
+  }
 }
 </script>
+
 
 
 {% endif %}
