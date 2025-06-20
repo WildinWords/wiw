@@ -1011,14 +1011,11 @@ iframe {
   top: 50%;
   transform: translateY(-50%);
   z-index: 2;
-  background-color: rgba(255, 255, 255, 0.5); /* white with 50% transparency */
-  color: #000; /* black arrow */
+  background-color: rgba(255, 255, 255, 0.5);
   border: none;
   border-radius: 50%;
   width: 40px;
   height: 40px;
-  font-size: 20px;
-  font-weight: bold;
   cursor: pointer;
   transition: background-color 0.3s, box-shadow 0.3s;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
@@ -1027,6 +1024,26 @@ iframe {
 .scroll-btn:hover {
   background-color: rgba(255, 255, 255, 0.85);
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.scroll-btn::before {
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+
+.scroll-btn.left::before {
+  border-width: 7px 10px 7px 0;
+  border-color: transparent #555 transparent transparent;
+  margin-left: 4px;
+}
+
+.scroll-btn.right::before {
+  border-width: 7px 0 7px 10px;
+  border-color: transparent transparent transparent #555;
+  margin-right: 4px;
 }
 
 .scroll-btn.left {
