@@ -33,7 +33,7 @@ When gray whales surface to breathe, they shoot noisy stream of air (known as "s
 
 Gray whales often carry barnacles and whale lice on their skin—tiny hitchhikers living rent-free. It makes their skin look like a coral reefs! These creatures can act like armor and even help in whale battles. Sometimes, whales rub against rocks to scrape off their "passengers."
 
-### ⚠From "Devil Fish" to Conservation Icons
+### ⚠Once Called "Devil Fish"
 
 In the past, gray whales were overhunted that their populations dropped dangerously low. They were nicknamed "devil fish" for fighting back when harpooned. Thanks to conservation efforts, their populations have somewhat recovered today, although threats like ocean noise, pollution, and climate change still remain.
 
