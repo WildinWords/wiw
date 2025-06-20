@@ -1,18 +1,20 @@
 <!-- begin post -->
-<div class="featured-card" style="min-width: 280px; max-width: 90vw; flex: 0 0 auto; margin-right: 15px;">
+<div class="featured-card" style="
+    flex: 0 0 calc(50% - 10px); 
+    max-width: calc(50% - 10px); 
+    margin-right: 20px; 
+    box-sizing: border-box;">
     <div class="card h-100">
         <div class="card-body">
-            <h2 class="card-title">
+            <h4 class="card-title">
                 {{ post.title }}
-                {% if post.rating %}
-                <div class="mb-2 mt-2 font-weight-normal">
-                    {% include star_rating_postbox.html %}
-                </div>
-                {% endif %}
-            </h2>
-
-            <h4 class="card-text"><b>{{ post.description | strip_html }}</b></h4>
-            <h4 class="card-text">{{ post.content | strip_html }}</h4>
+            </h4>
+            <p class="card-text" style="font-weight: 500; color: #333;">
+                {{ post.description | strip_html }}
+            </p>
+            <p class="card-text" style="font-weight: 300; color: #888;">
+                {{ post.content | strip_html }}
+            </p>
         </div>
         <div class="card-footer b-0 bg-white mt-auto">
             <div class="wrapfooter">
@@ -24,3 +26,4 @@
     </div>
 </div>
 <!-- end post -->
+
