@@ -26,7 +26,9 @@ permalink: "/blog.html"
     </header>
     <div class="postlist">
       {% for post in site.posts %}
-        {% include postlist.html %}
+        {% if post.featured == false %}
+          {% include postlist.html %}
+        {% endif %}
       {% endfor %}
     </div>
   </section>
