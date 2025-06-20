@@ -1,32 +1,23 @@
 <!-- begin post -->
-{% assign author = site.authors[post.author] %}
-<div class="col-md-6 mb-30px">
-    <div class="listfeaturedtag h-100">
-        <div class="row h-100">
-            <div class="col-12 col-md-12 col-lg-12">
-                <div class="h-100 card-group">
-                    <div class="card">
-                        <div class="card-body">
-                            <h2 class="card-title">
-                                {{ post.title }}
-                                {% if post.rating %}
-                                <div class="mb-2 mt-2 font-weight-normal">
-                                {% include star_rating_postbox.html %}
-                                </div>
-                                {% endif %}
-                            </h2>
+<div class="featured-card" style="min-width: 280px; max-width: 90vw; flex: 0 0 auto; margin-right: 15px;">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                {{ post.title }}
+                {% if post.rating %}
+                <div class="mb-2 mt-2 font-weight-normal">
+                    {% include star_rating_postbox.html %}
+                </div>
+                {% endif %}
+            </h2>
 
-                            <h4 class="card-text"><b>{{ post.description | strip_html }}</b></h4>
-                            <h4 class="card-text">{{ post.content | strip_html }}</h4>
-                        </div>
-                        <div class="card-footer b-0 bg-white mt-auto">
-                            <div class="wrapfooter">
-                                <div class="post-date">
-                                {{ post.date | date_to_string }}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <h4 class="card-text"><b>{{ post.description | strip_html }}</b></h4>
+            <h4 class="card-text">{{ post.content | strip_html }}</h4>
+        </div>
+        <div class="card-footer b-0 bg-white mt-auto">
+            <div class="wrapfooter">
+                <div class="post-date">
+                    {{ post.date | date_to_string }}
                 </div>
             </div>
         </div>
