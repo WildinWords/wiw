@@ -1037,13 +1037,13 @@ iframe {
 .scroll-btn.left::before {
   border-width: 7px 10px 7px 0;
   border-color: transparent #555 transparent transparent;
-  margin-left: 4px;
+  margin-left: 5px;
 }
 
 .scroll-btn.right::before {
   border-width: 7px 0 7px 10px;
   border-color: transparent transparent transparent #555;
-  margin-right: 4px;
+  margin-right: 5px;
 }
 
 .scroll-btn.left {
