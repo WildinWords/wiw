@@ -19,7 +19,13 @@ title: Home
     <button onclick="scrollFeatured(1)" class="scroll-btn right"></button>
 
     <!-- Scrollable container -->
-    <div id="featured-scroll" style="display: flex;overflow-x: auto;scroll-behavior: smooth; padding: 10px 0;">
+    <div id="featured-scroll" style="
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    padding: 10px 0;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */">
         {% for post in site.posts %}
             {% if post.featured == true %}
                 {% include featuredbox.html %}

@@ -1053,3 +1053,7 @@ iframe {
 .scroll-btn.right {
   right: 10px;
 }
+
+#featured-scroll::-webkit-scrollbar {
+  display: none;
+}
