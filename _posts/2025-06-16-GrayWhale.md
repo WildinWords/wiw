@@ -6,7 +6,7 @@ categories: [Mammal, Ocean]
 tags: [YLICP, NatureinTransit, GrayWhale, MarineConservation, WildBC]
 image: assets/images/grey_whale.jpg
 description: 'The “Ocean Travelers” of the North Pacific'
-featured: true
+featured: false
 comments: false
 ---
 *(Photo by [NOAA Fisheries West Coast](https://www.flickr.com/photos/nmfs_northwest/17628350103) on Flickr)*
