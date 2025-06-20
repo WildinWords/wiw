@@ -40,12 +40,14 @@
                 {% endif %}
             </h4>
         </div>
-        <div class="after-post-cats ml-6">
-            <ul class="tags mb-2">
+        <div class="after-post-cats px-3"> <!-- optional padding instead of margin-left -->
+            <ul class="tags mb-2 list-none p-0 m-0">
                 {% assign sortedCategories = post.categories | sort %}
                 {% for category in sortedCategories %}
-                <li>
-                    <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ category | replace: " ","-" | downcase }}'>{{ category }}</a>
+                <li style="display: inline-block; margin-right: 8px;">
+                    <a class="smoothscroll" href='{{site.baseurl}}/blog/{{ category | replace: " ","-" | downcase }}'>
+                        {{ category }}
+                    </a>
                 </li>
                 {% endfor %}
             </ul>
