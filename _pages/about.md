@@ -6,12 +6,14 @@ comments: false
 ---
 ### About Wild in Words
 
-Wild in Words is a digital blog series aimed to transforms curiosity into connection through fun facts, heartfelt stories, and surprising science about plants and animals both local and global. By spotlighting species in both marine and terrestrial ecosystems, Wild in Words encourages readers to care more deeply and act more boldly in support of conservation. It also connects audiences with further resources, including conservation groups, Indigenous knowledge, and citizen science initiatives.
+Wild in Words is a digital blog series aims to bridge public art and environmental education by making biodiversity learning easy, engaging, and meaningful. By spotlighting species in both marine and terrestrial ecosystems, Wild in Words encourages readers to care more deeply and act more boldly in support of conservation. It also connects audiences with further resources, including conservation groups, Indigenous knowledge, and citizen science initiatives.
 
 ### Our Mission
 
 To spark wonder for the natural world by:
 
-- **Humanizing Conservation:** Sharing relatable tales of species.
-- **Bridging Urban & Wild:** Linking Vancouver's common species to deep-dive stories, spot a species on your commute, then explore its life here!
-- **Inspiring Action:** Turning "I never knew!" into "How can I help?"
+✅ **Bridging Urban Life & Wildlife:** Bringing species to life through fun, accessible, and factual short stories
+✅ **Lasting Educational Materials:** Creating narratives for educators and nature lovers
+✅ **Inspiring Action:** Turning "I never knew!" into "How can I help?"
+
+Partnering with the Nature in Transit project of Young Leaders in Conservation Program (YLICP) at Burrard SkyTrain Station.
