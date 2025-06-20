@@ -1047,11 +1047,11 @@ iframe {
 }
 
 .scroll-btn.left {
-  left: 10px;
+  left: -25px;
 }
 
 .scroll-btn.right {
-  right: 10px;
+  right: -25px;
 }
 
 #featured-scroll::-webkit-scrollbar {
