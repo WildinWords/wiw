@@ -18,4 +18,4 @@ To spark wonder for the natural world by:
 
 ✅ **Inspiring Action:** Turning "I never knew!" into "How can I help?"
 
-Partnering with the Nature in Transit project of Young Leaders in Conservation Program (YLICP) at Burrard SkyTrain Station.
+This project is supported and sponsored by the **Young Leaders in Conservation Program (YLICP)** of the **Canadian Parks and Wilderness Society – British Columbia (CPAWS-BC)** and partnered with the **Nature in Transit** project of YLICP at Burrard SkyTrain Station.
