@@ -133,22 +133,24 @@ ga('send', 'pageview');
 <!-- Begin Footer
 ================================================== -->
 <footer class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-            </div>
-            <div class="col-md-6 col-sm-6 text-center">
+    <div class="container text-center">
+        <!-- First Line: Image + Text -->
+        <div class="d-flex flex-column align-items-center">
+            <div class="d-flex flex-wrap justify-content-center align-items-center gap-2 mb-2">
+                <img src="{{ site.baseurl }}/assets/images/YLICP_Round.png" alt="YLICP Logo" style="height: 50px;">
                 <div>
-                    <img src="{{ site.baseurl }}/assets/images/YLICP_Round.png" alt="YLICP Logo" style="height: 50px;">
+                    <a target="_blank" href="https://cpawsbc.org/cpaws-bc-young-leaders-in-conservation-program-ylicp/" style="text-decoration: none;">
+                        <span>Supported by Young Leaders in Conservation Program (YLICP)</span>
+                    </a>
+                    <span> of </span>
+                    <a target="_blank" href="https://cpawsbc.org/" style="text-decoration: none;">
+                        <span>Canadian Parks and Wilderness Society – British Columbia (CPAWS-BC)</span>
+                    </a>
                 </div>
-                <a target="_blank" href="https://cpawsbc.org/cpaws-bc-young-leaders-in-conservation-program-ylicp/"  style="display: inline-flex; align-items: center; gap: 8px;">
-                    <span>Supported by Young Leaders in Conservation Program (YLICP)</span>
-                </a>
-                 of 
-                <a target="_blank" href="https://cpawsbc.org/"  style="display: inline-flex; align-items: center; gap: 8px;">
-                    <span>Canadian Parks and Wilderness Society – British Columbia (CPAWS-BC)</span>
-                </a>
+            </div>
+            <!-- Second Line: Copyright -->
+            <div>
+                &copy; {{ site.time | date: "%Y" }} {{ site.name }}
             </div>
         </div>
     </div>
