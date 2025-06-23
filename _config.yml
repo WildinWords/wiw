@@ -1,7 +1,7 @@
 # Site
 name: "Wild in Words"
 title: "Wild in Words"
-description: "Exploring the fun facts and stories of wildlife 🌳🐺🐦"
+description: "Exploring the fun facts and stories of wildlife 🌳"
 logo: 'assets/images/wiwlogo.jpg'
 favicon: 'assets/images/wiwlogo.jpg'
 url: https://wildinwords.github.io/wiw # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
