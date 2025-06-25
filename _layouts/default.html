@@ -134,28 +134,33 @@ ga('send', 'pageview');
 <!-- Begin Footer
 ================================================== -->
 <footer class="footer">
-    <div class="container text-center">
-        <!-- First Line: Image + Text -->
-        <div class="d-flex flex-column align-items-center">
-            <div class="d-flex flex-wrap justify-content-center align-items-center gap-2 mb-2" style="gap: 10px;">
-                <img src="{{ site.baseurl }}/assets/images/YLICP_Round.png" alt="YLICP Logo" style="height: 50px;">
-                <div>
-                    <a target="_blank" href="https://cpawsbc.org/cpaws-bc-young-leaders-in-conservation-program-ylicp/" style="text-decoration: none;">
-                        <span>Supported by Young Leaders in Conservation Program (YLICP)</span>
-                    </a>
-                    <span> of </span>
-                    <a target="_blank" href="https://cpawsbc.org/" style="text-decoration: none;">
-                        <span>Canadian Parks and Wilderness Society – British Columbia (CPAWS-BC)</span>
-                    </a>
-                </div>
+    <div class="container">
+        <!-- First Line: Logos and Text Aligned Left and Right -->
+        <div class="d-flex justify-content-between align-items-center flex-wrap mb-2">
+            <!-- Left: YLICP Logo and Text -->
+            <div class="d-flex align-items-center gap-2">
+                <img src="{{ site.baseurl }}/assets/images/YLICP_Round.png" alt="YLICP Logo" style="height: 60px;">
+                <a target="_blank" href="https://cpawsbc.org/cpaws-bc-young-leaders-in-conservation-program-ylicp/" style="text-decoration: none;">
+                    <span>Young Leaders in Conservation Program (YLICP)</span>
+                </a>
             </div>
-            <!-- Second Line: Copyright -->
-            <div>
-                &copy; {{ site.time | date: "%Y" }} {{ site.name }}
+
+            <!-- Right: CPAWS-BC Logo and Text -->
+            <div class="d-flex align-items-center gap-2">
+                <img src="{{ site.baseurl }}/assets/images/CPAWSBC_logo.png" alt="CPAWSBC-Logo" style="height: 60px;">
+                <a target="_blank" href="https://cpawsbc.org/" style="text-decoration: none;">
+                    <span>CPAWS-BC</span>
+                </a>
             </div>
+        </div>
+
+        <!-- Second Line: Copyright -->
+        <div class="text-center">
+            &copy; {{ site.time | date: "%Y" }} {{ site.name }}
         </div>
     </div>
 </footer>
+
 <!-- End Footer
 ================================================== -->
 
