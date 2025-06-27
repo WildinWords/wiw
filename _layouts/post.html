@@ -28,9 +28,9 @@ post_class: post-template
                 {% if page.author %}
                 <div class="row post-top-meta">
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left" style="margin-bottom: 0; margin-top: 10px;">
-                        <p>
-                            by {{ author.display_name }} | <time class="post-date" datetime='{{ page.date | date:"%Y-%m-%d" }}'>{{ page.date | date_to_string }}</span>
-                        </p>
+                        <span>
+                            by {{ author.display_name }} | <time class="post-date" datetime='{{ page.date | date:"%Y-%m-%d" }}'>{{ page.date | date_to_string }}
+                        </span>
                     </div>
                 </div>
                 {% endif %}
