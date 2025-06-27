@@ -9,7 +9,7 @@ description: 'The “Ocean Travelers” of the North Pacific'
 featured: false
 comments: false
 ---
-*(Photo by [NOAA Fisheries West Coast](https://www.flickr.com/photos/nmfs_northwest/17628350103) on Flickr)*
+*(Photo by <a target="_blank" href="https://www.flickr.com/photos/nmfs_northwest/17628350103"><span>NOAA Fisheries West Coast</span></a> on Flickr)*
 
 Off the coast of Tofino and Vancouver, a spectacular natural show unfolds every year—the migration of gray whales. These massive creatures glide slowly along the shoreline, as if whispering their ancient and mysterious tales with us.
 
@@ -27,7 +27,7 @@ Gray whales feed by swimming on their sides along the ocean floor, sucking up se
 
 ### 💨The Ocean's Jet Sprayers
 
-When gray whales surface to breathe, they shoot noisy stream of air (known as "spout") to 4 metres into the air. Each whale's spray is shaped a little differently—almost like a fingerprint. Scientists can even tell them apart by their unique [&#34;heart-shaped&#34; spouts](https://whalestaildepoebay.com/gray-whales/).
+When gray whales surface to breathe, they shoot noisy stream of air (known as "spout") to 4 metres into the air. Each whale's spray is shaped a little differently—almost like a fingerprint. Scientists can even tell them apart by their unique <a target='_blank' herf='https://whalestaildepoebay.com/gray-whales/'><span>&#34;heart-shaped&#34; spouts</span></a>.
 
 ### 🐋Moving Coral Reefs
 
@@ -43,8 +43,8 @@ Next time you're by the sea and spot a spray in the distance, wave to these incr
 
 ### Learn More
 
-- [IUCN Red List](https://www.iucnredlist.org/species/8097/50353881)
-- [Whales Tail Charters](https://whalestaildepoebay.com/gray-whales/)
-- [NOAA Species Directory](https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles.) 
-- [Northwest Wildlife Preservation Society](https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf)
-- [Daily Mail. (2010, May 12). The Loneliest whale in the world.](https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html)
+- <a style='_blank' herf='https://www.iucnredlist.org/species/8097/50353881'><span>IUCN Red List</span></a>
+- <a style='_blank' herf='https://whalestaildepoebay.com/gray-whales/'><span>Whales Tail Charters</span></a>
+- <a style='_blank' herf='https://www.fisheries.noaa.gov/species/gray-whale#:~:text=Gray%20whales%20make%20one%20of,cases%20upwards%20of%2014%2C000%20miles. '><span>NOAA Species Directory</span></a>
+- <a style='_blank' herf='https://www.northwestwildlife.com/wp-content/uploads/2018/10/grey-whale.pdf'><span>Northwest Wildlife Preservation Society</span></a>
+- <a style='_blank' herf='https://www.dailymail.co.uk/news/article-1277841/Lost-Med-loneliest-whale-world.html'><span>Daily Mail. (2010, May 12). The Loneliest whale in the world.</span></a>
