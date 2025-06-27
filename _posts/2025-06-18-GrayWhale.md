@@ -3,7 +3,7 @@ layout: post
 title:  'Gray Whales (<em>Eschrichtius robustus</em>)'
 author: qingyang
 categories: [Mammal, Ocean]
-tags: [YLICP, NatureinTransit, GrayWhale, MarineConservation, WildBC]
+tags: [CPAWS, YLICP, NatureinTransit, GrayWhale, MarineConservation, WildBC]
 image: assets/images/grey_whale.jpg
 description: 'The “Ocean Travelers” of the North Pacific'
 featured: false
