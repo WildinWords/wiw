@@ -47,11 +47,10 @@ Enjoy them, but share them. Let the forest feast, too.
 ---
 
 ### Learn More
+- <a target='_blank' href='https://en.wikipedia.org/wiki/Rubus_spectabilis'><span>Wikipedia. (2025, June 14). Rubus spectabilis.</span></a>
 
-- <a style='_blank' href='https://en.wikipedia.org/wiki/Rubus_spectabilis'><span>Wikipedia. (2025, June 14). Rubus spectabilis.</span></a>
+- <a target='_blank' href='https://eya.ca/news/salmonberry-rubus-spectabilis/#:~:text=Bird%20and%20Pollinator%20Relationships:,runs%20and%20healthy%20salmon%20ecosystems.&text=Threats:,not%20currently%20listed%20as%20threatened'><span>Environmental Youth Alliance. Salmonberry (Rubus spectabilis).</span></a>
 
-- <a style='_blank' href='https://eya.ca/news/salmonberry-rubus-spectabilis/#:~:text=Bird%20and%20Pollinator%20Relationships:,runs%20and%20healthy%20salmon%20ecosystems.&text=Threats:,not%20currently%20listed%20as%20threatened'><span>Environmental Youth Alliance. Salmonberry (Rubus spectabilis).</span></a>
+- <a target='_blank' href='https://sierraclub.bc.ca/salmonberry/'><span>Sierra Club BC. Salmonberry.</span></a>
 
-- <a style='_blank' href='https://sierraclub.bc.ca/salmonberry/'><span>Sierra Club BC. Salmonberry.</span></a>
-
-- <a style='_blank' href='https://nativeplantspnw.com/salmonberry-rubus-spectabilis/'><span>Native Plants PNW.</span></a>
+- <a target='_blank' href='https://nativeplantspnw.com/salmonberry-rubus-spectabilis/'><span>Native Plants PNW.</span></a>
