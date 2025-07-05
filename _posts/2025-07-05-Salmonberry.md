@@ -32,7 +32,7 @@ Salmonberries are deeply rooted in Indigenous culture. Nations like the **Squami
 <div style="text-align: center"> 
     <img src="{{site.url}}/assets/images/SalmonberryBowl.jpg">
     <br>(Photo by Ariasnow on <a target='_blank' href='https://upload.wikimedia.org/wikipedia/commons/3/3a/Bowl_of_salmonberries.jpg'><span>Wikipedia</span></a>)
-</div>
+</div><br>
 
 ### 🐻Forest Buffet: Everyone Wants a Bite
 
