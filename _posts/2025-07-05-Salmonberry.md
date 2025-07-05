@@ -29,7 +29,7 @@ Salmonberries show off in shades from fire-orange to deep red. But don't assume 
 
 Salmonberries are deeply rooted in Indigenous culture. Nations like the **Squamish** and **Nuu-chah-nulth** harvest not just the berries, but the spring shoots—eaten raw, steamed, or with fish. The berries are often enjoyed with herring oil, while the leaves and bark are traditional medicines of **Quinault** used for everything from burns to childbirth support. Every part of this plant carries knowledge passed down over generations.
 
-<div>
+<div style="text-align: center"> 
     <img src="{{site.url}}/assets/images/SalmonberryBowl.jpg">
     <br>(Photo by Ariasnow on <a target='_blank' href='https://upload.wikimedia.org/wikipedia/commons/3/3a/Bowl_of_salmonberries.jpg'><span>Wikipedia</span></a>)
 </div>
