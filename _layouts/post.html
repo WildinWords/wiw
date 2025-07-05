@@ -90,7 +90,7 @@ post_class: post-template
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll mb-4">#{{ tag }}</a>
+                        <a class="smoothscroll" style="margin: 5px;">#{{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
