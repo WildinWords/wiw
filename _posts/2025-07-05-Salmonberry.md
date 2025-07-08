@@ -13,7 +13,7 @@ comments: false
 
 Wander through Vancouver's coastal rainforests in late spring, and you might hear a Swainson's thrush singing its magical tune—"*xwexwelexwelexwelexwesh*!" Known as the Salmonberry Bird to many Indigenous communities, its call is said to help berries into ripening. Across Haida, Tlingit, and Coast Salish stories, this bird and the first juicy salmonberries are ancient allies, bringing the forest’s sweet summer treasure to life in hues of ruby red and golden orange.
 
-### 🍓What’s in a Name?
+### 🐟What’s in a Name?
 
 Despite the name, salmonberries don’t taste like salmon. The name likely comes from their glowing salmon-colored skin—or from traditional pairings of the berries with salmon and fish roe in Indigenous dishes. Even more poetic: they ripen just as salmon return to spawn, reminding us of nature's rhythms, where berry and fish feed land, people, and wildlife alike.
 
@@ -25,14 +25,14 @@ Salmonberry's trifoliate leaves hide a secret: fold the top leaflet down, it tur
 
 Salmonberries show off in shades from fire-orange to deep red. But don't assume red means ripe and its color doesn't predict taste! Red ones can be tart, gold ones can be sweet, or vice versa. This genetic mix attracts a variety of wildlife and ensures the seeds get spread (also called "dispersal") far and wide. Whether you're a forager or a curious hiker, it's nature’s version of mystery flavor gummies—pick and see what you get!
 
-### 🔮 Not Just a Berry: Culture, Medicine, & Memory
-
-Salmonberries are deeply rooted in Indigenous culture. Nations like the **Squamish** and **Nuu-chah-nulth** harvest not just the berries, but the spring shoots—eaten raw, steamed, or with fish. The berries are often enjoyed with herring oil, while the leaves and bark are traditional medicines of **Quinault** used for everything from burns to childbirth support. Every part of this plant carries knowledge passed down over generations.
-
 <div style="text-align: center"> 
     <img src="{{site.url}}/assets/images/SalmonberryBowl.jpg">
     <br>(Photo by Ariasnow on <a target='_blank' href='https://upload.wikimedia.org/wikipedia/commons/3/3a/Bowl_of_salmonberries.jpg'><span>Wikipedia</span></a>)
 </div><br>
+
+### 🍓 Not Just a Berry: Culture, Medicine, & Memory
+
+Salmonberries are deeply rooted in Indigenous culture. Nations like the **Squamish** and **Nuu-chah-nulth** harvest not just the berries, but the spring shoots—eaten raw, steamed, or with fish. The berries are often enjoyed with herring oil, while the leaves and bark are traditional medicines of **Quinault** used for everything from burns to childbirth support. Every part of this plant carries knowledge passed down over generations.
 
 ### 🐻Forest Buffet: Everyone Wants a Bite
 
