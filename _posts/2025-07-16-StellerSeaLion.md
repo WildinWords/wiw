@@ -15,41 +15,41 @@ Early summer mornings off Vancouver Island come alive with a strange sound—dee
 
 These giant mammals aren’t just loud—they’re the largest eared seals (Otariidae) in the world, and they’re not afraid to show it.
 
-### 🦁 *Roar for the Throne*
+### 🦁 Roar for the Throne
 
 In the world of sea lions, volume is power. During the breeding season, male Steller sea lions claim rocky territories and roar—loud enough to be heard 90+ metres away.
 
 Their deep calls help defend turf and attract females. It’s not just drama—it’s dominance. In Coast Salish stories, these roars were once believed to echo messages from sea spirits, warning of danger or guiding hunters.
 
-### 🧔Giant *and Bearded Sea Uncle*
+### 🧔Giant and Bearded Sea Uncle
 
 Male Steller sea lions can weigh up to 1,120 kilograms and stretch 3.2 metres long. With thick necks and coarse fur, they look like lions wearing seaweed scarves. Their long white whiskers give them the wise, slightly grumpy look of a bearded sea uncle.
 
-### 💤 *Lazy Sunbathers by Day, Stealthy Hunters by Night*
+### 💤 Lazy Sunbathers by Day, Stealthy Hunters by Night
 
 They may look like oversized sausages piled on rocks, but don’t be fooled. When night falls, these loafers turn into skilled predators.
 
 With sensitive whiskers that detect fish movement, they work in teams (or sometimes solo) to hunt over 100 types of prey. Think of them as the ocean’s slightly noisy but efficient foodies.
 
-### 🌊 *The Deep Dive & Deep Menu*
+### 🌊 The Deep Dive & Deep Menu
 
 Despite their bulk, Steller sea lions are elite divers. They can dive reaching 424 metres deep and stay underwater usually under 5 minutes.
 
 Their menu includes schooling fish like herring, pollock, and eulachon—and yes, some are cheeky enough to grab “takeout” from salmon farms.
 
-### 🍔 *Hungry Kings of the Sea*
+### 🍔 Hungry Kings of the Sea
 
 To stay powered, adult sea lions eat 6% of their body weight every day—that’s like a person eating 40 cheeseburgers daily. But interestingly, males don’t eat at all during the breeding season. They fast for weeks, losing up to a quarter of their body weight just to guard their breeding territories.
 
 And they don’t drink seawater—they get all the moisture they need from the fish they eat.
 
-### 🧸 *Fluffy Pups: Born in Black, Fade to Gold*
+### 🧸 Fluffy Pups: Born in Black, Fade to Gold
 
 Pups are born in early summer (May-August), covered in dark brown-black fur, which slowly fades into the golden coats we recognize.
 
 At birth, they weigh around 23 kg, and they usually paddle behind mom at 4-6 weeks!
 
-### 📣 *Keep the Roar Alive*
+### 📣 Keep the Roar Alive
 
 Steller sea lions nearly extinctic from Alaska, with populations dropping over 80% due to overfishing and human disturbance. While their numbers are slowly recovering in BC, they are still under “special concern” as a Species-At-Risk facing threats like warming oceans, ocean pollution, and human disturbance.
 
