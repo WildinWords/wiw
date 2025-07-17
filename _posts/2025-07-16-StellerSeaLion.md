@@ -9,7 +9,7 @@ description: 'The Roaring Titans of the Pacific Coast'
 featured: false
 comments: false
 ---
-*(Photo by `<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Sivuchi.jpg"><span>`Alexey V Altukhov`</a>`, CC BY-SA 3.0)*
+*(Photo by `<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Sivuchi.jpg"><span>Alexey V Altukhov</a>, CC BY-SA 3.0)*
 
 Early summer mornings off Vancouver Island come alive with a strange sound—deep, thunderous roars rolling across the sea. It’s not a boat engine or a strange foghorn. It’s the Steller sea lions, bellowing from rocky haul-outs like Race Rocks and Barkley Sound.
 
@@ -69,18 +69,12 @@ By giving these ocean giants space and respect, we can help keep their powerful 
 
  - <a target='_blank' href='https://thewhaletrail.org/wt-species/steller-sea-lion/#:~:text=Steller%20sea%20lions%20are%20opportunistic,biologists%20believe%20helps%20with%20digestion'><span>The Whale Trail. (2024). Steller Sea Lion.</span></a>
 
-
  - <a target='_blank' href='https://www.fisheries.noaa.gov/species/steller-sea-lion'><span>NOAA. (2025). Steller Sea Lion</span></a>
 
- 
  - <a target='_blank' href='https://mmru.ubc.ca/biology/steller-sea-lion-fast-facts/'><span>Marine Mammal Research Unit. (2025). Steller sea lion - biology fast facts.</span></a>
 
- 
  - <a target='_blank' href='https://wwf.ca/stories/meet-species-month-sea-lion/#:~:text=Did%20you%20know%E2%80%A6,live%20up%20to%2030%20years'><span>WWF. (2014). Meet our species of the month: The sea lion.</span></a>
 
  - <a target='_blank' href='https://www.youtube.com/watch?v=Odb6-lrH9ro&t=16s'><span>NowThis Earth. (2022). What to do When Encountering Sea Lions.</span></a>
-
  
  - <a target='_blank' href='https://www.sararegistry.gc.ca/virtual_sara/files/cosewic/sr_steller_sea_lion_e.pdf'><span>Committee on the Status of Endangered Wildlife in Canada (COSEWIC). (2003). COSEWIC Assessment and Update Status Report on the Steller Sea Lion Eumetopias jubatus in Canada.</span></a>
-
-
