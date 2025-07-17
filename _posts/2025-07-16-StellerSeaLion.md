@@ -9,7 +9,7 @@ description: 'The Roaring Titans of the Pacific Coast'
 featured: false
 comments: false
 ---
-(Photo by <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Sivuchi.jpg"><span>Alexey V Altukhov</a>, CC BY-SA 3.0)
+*(Photo by <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Sivuchi.jpg"><span>Alexey V Altukhov</span></a>, CC BY-SA 3.0)*
 
 Early summer mornings off Vancouver Island come alive with a strange sound—deep, thunderous roars rolling across the sea. It’s not a boat engine or a strange foghorn. It’s the Steller sea lions, bellowing from rocky haul-outs like Race Rocks and Barkley Sound.
 
